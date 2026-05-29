@@ -1,1 +1,1 @@
-require board=sdm845|beryllium
+require board=sdm845|perseus
